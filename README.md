@@ -4,7 +4,8 @@ This project was completed for a Data Science course. The project was to design 
 
 This was done in the following steps:
 - Scrape >1000 online job postings for Data Science / Machine Learning roles
-- Perform exploratory data analysis and feature engineering on the data to extract relevant skills and other information from the job postings
+- Extract relevant skills and information from the job postings
+- Perform exploratory data analysis and feature engineering to create a "skills matrix" for clustering
 - Implement hierarchical and K-means clustering on the different skills
 - Interpret results and finalize curriculum
 
